@@ -1,5 +1,5 @@
 Source: burpsuite
-Section: net
+Section: non-free/net
 Priority: extra
 Maintainer: dookie <dookie@kali.org>
 Build-Depends: debhelper (>= 9)

@@ -1,3 +1,11 @@
+burpsuite (1.7.23+parrot0) testing; urgency=medium
+
+  * Convert source package from quilt to native.
+  * Move package from extra to non-free/extra.
+  * New upstream release.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 28 Jun 2017 18:33:56 +0200
+
 burpsuite (1.7.03-0parrot0) testing; urgency=medium
 
   * Import new upstream release
