@@ -1,9 +1,9 @@
 Source: burpsuite
-Section: non-free/net
+Section: net
 Priority: extra
 Maintainer: dookie <dookie@kali.org>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.3
+Standards-Version: 3.9.8
 Homepage: http://portswigger.net/index.html
 Vcs-Git: git://git.kali.org/packages/burpsuite.git
 Vcs-Browser: http://git.kali.org/gitweb/?p=packages/burpsuite.git;a=summary

@@ -1,3 +1,9 @@
+burpsuite (1.7.27+parrot1) testing; urgency=medium
+
+  * Import new Kali version.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 11 Dec 2017 14:07:39 +0100
+
 burpsuite (1.7.23+parrot0) testing; urgency=medium
 
   * Convert source package from quilt to native.
