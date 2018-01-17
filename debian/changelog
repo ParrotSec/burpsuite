@@ -1,3 +1,9 @@
+burpsuite (1.7.30+parrot1) testing; urgency=medium
+
+  * Import new upstream release.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 17 Jan 2018 14:44:07 +0100
+
 burpsuite (1.7.27+parrot1) testing; urgency=medium
 
   * Import new Kali version.
