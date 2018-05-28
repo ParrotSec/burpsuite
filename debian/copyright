@@ -2,6 +2,12 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: burpsuite
 Source: https://portswigger.net/burp/download.html 
 
+
+Files: debian/*
+Copyright: 2018 Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
+License: GPL-3
+
+
 Files: *
 Copyright: 2012-2015  PortSwigger <mail@portswigger.net>
 License: commercial

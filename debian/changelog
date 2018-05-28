@@ -1,3 +1,13 @@
+burpsuite (1.7.33+parrot1) testing; urgency=medium
+
+  * Import new upstream release.
+  * Make it depend on openjdk 8.
+  * Create java launcher.
+  * update debian/rules.
+  * Add missing debian/* license.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 28 May 2018 13:05:25 +0200
+
 burpsuite (1.7.30+parrot1) testing; urgency=medium
 
   * Import new upstream release.

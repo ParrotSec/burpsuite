@@ -1,16 +1,16 @@
 Source: burpsuite
 Section: net
 Priority: extra
-Maintainer: dookie <dookie@kali.org>
-Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.8
-Homepage: http://portswigger.net/index.html
-Vcs-Git: git://git.kali.org/packages/burpsuite.git
-Vcs-Browser: http://git.kali.org/gitweb/?p=packages/burpsuite.git;a=summary
+Maintainer: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.4
+Homepage: https://portswigger.net/index.html
+Vcs-Git: https://dev.parrotsec.org/parrot/burpsuite
+Vcs-Browser: https://dev.parrotsec.org/parrot/burpsuite
 
 Package: burpsuite
 Architecture: all
-Depends: ${misc:Depends}, default-jre, jarwrapper
+Depends: ${misc:Depends}, openjdk-8-jre, jarwrapper
 Description: platform for security testing of web applications
  Burp Suite is an integrated platform for performing security 
  testing of web applications. Its various tools work seamlessly 
