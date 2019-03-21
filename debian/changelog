@@ -1,3 +1,10 @@
+burpsuite (1.7.36-1parrot1) testing; urgency=medium
+
+  * Import new Upstream release.
+  * Make it use java 8 by default.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Thu, 21 Mar 2019 13:09:29 +0100
+
 burpsuite (1.7.33+parrot1) testing; urgency=medium
 
   * Import new upstream release.
@@ -100,3 +107,4 @@ burpsuite (1.5-1) kali; urgency=low
   * Initial release 
 
  -- dookie <dookie@kali.org>  Tue, 06 Nov 2012 14:57:41 -0700
+

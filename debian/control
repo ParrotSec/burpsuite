@@ -1,12 +1,13 @@
 Source: burpsuite
 Section: net
-Priority: extra
-Maintainer: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
+Priority: optional
+Maintainer: Parrot Dev Team <team@parrotsec.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
 Build-Depends: debhelper (>= 10)
-Standards-Version: 4.1.4
-Homepage: https://portswigger.net/index.html
-Vcs-Git: https://dev.parrotsec.org/parrot/burpsuite
-Vcs-Browser: https://dev.parrotsec.org/parrot/burpsuite
+Standards-Version: 4.2.0
+Homepage: https://portswigger.net
+Vcs-Git: https://nest.parrotsec.org/security-tools/burpsuite
+Vcs-Browser: https://nest.parrotsec.org/security-tools/burpsuite
 
 Package: burpsuite
 Architecture: all
