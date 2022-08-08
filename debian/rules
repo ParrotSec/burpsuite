@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+
+
+%:
+	dh $@
+
+override_dh_auto_install:
+	dh_installdirs
+	wget "https://portswigger-cdn.net/burp/releases/download?product=community&type=Jar" -O burpsuite.jar
+	install burpsuite.jar $(CURDIR)/debian/burpsuite/usr/bin/burpsuite
+	dh_auto_install
+

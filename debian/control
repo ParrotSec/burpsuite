@@ -1,0 +1,24 @@
+Source: burpsuite
+Section: web
+Priority: optional
+Maintainer: Parrot Team <team@parrotsec.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
+ Nong Hoang Tu <dmknght@parrotsec.org>
+Build-Depends: debhelper-compat (= 12), wget
+Standards-Version: 4.5.0
+Homepage: https://portswigger.net
+
+Package: burpsuite
+Architecture: amd64 arm64
+Depends: ${misc:Depends}, default-jre, jarwrapper
+Description: platform for security testing of web applications
+ Burp Suite is an integrated platform for performing security 
+ testing of web applications. Its various tools work seamlessly 
+ together to support the entire testing process, from initial 
+ mapping and analysis of an application's attack surface, 
+ through to finding and exploiting security vulnerabilities.
+ .
+ Burp gives you full control, letting you combine advanced 
+ manual techniques with state-of-the-art automation, to make 
+ your work faster, more effective, and more fun.
+
