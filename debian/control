@@ -10,7 +10,7 @@ Homepage: https://portswigger.net
 
 Package: burpsuite
 Architecture: amd64 arm64
-Depends: ${misc:Depends}, default-jre, jarwrapper
+Depends: ${misc:Depends}, openjdk-17-jre, jarwrapper
 Description: platform for security testing of web applications
  Burp Suite is an integrated platform for performing security 
  testing of web applications. Its various tools work seamlessly 
