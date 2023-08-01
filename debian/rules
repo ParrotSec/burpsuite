@@ -3,11 +3,3 @@
 
 %:
 	dh $@
-
-override_dh_auto_install:
-	dh_installdirs
-	wget "https://portswigger-cdn.net/burp/releases/download?product=community&type=Jar" -O burpsuite.jar
-	install burpsuite.jar $(DESTDIR)/usr/share/burpsuite/burpsuite.jar
-	install debian/launcher/burpsuite $(DESTDIR)/usr/bin/burpsuite
-	dh_auto_install
-
