@@ -1,3 +1,9 @@
+burpsuite (2023.10.3.4-1parrot1) parrot-updates; urgency=medium
+
+  * UNRELEASED
+
+ -- Nong Hoang Tu <dmknght@parrotsec.org>  Wed, 15 Nov 2023 21:25:26 +0700
+
 burpsuite (2023.7.2+0parrot5) parrot-updates; urgency=medium
 
   * Add CI script
