@@ -1,3 +1,9 @@
+burpsuite (2023.10.3.4-1parrot3) parrot-updates; urgency=medium
+
+  * Change source format to quilt
+
+ -- Nong Hoang Tu <dmknght@parrotsec.org>  Wed, 15 Nov 2023 21:54:11 +0700
+
 burpsuite (2023.10.3.4-1parrot2) parrot-updates; urgency=medium
 
   [ Lorenzo Palinuro Faletra ]
