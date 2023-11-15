@@ -1,3 +1,16 @@
+burpsuite (2023.10.3.4-1parrot1) parrot-updates; urgency=medium
+
+  * Add autobuild
+  * Try fixing the source export error
+  * New upstream version 2023.7.2
+  * Sync the Debian's changelog
+  * Update changelog for 2023.7.2+0parrot4 release
+  * Add CI script
+  * Update changelog for 2023.7.2+0parrot5 release
+  * Update changelog for 2023.10.3.4-1parrot1 release
+
+ -- Nong Hoang Tu <dmknght@parrotsec.org>  Wed, 15 Nov 2023 21:35:13 +0700
+
 burpsuite (2023.7.2+0parrot3) parrot-updates; urgency=medium
 
   * Skip dh_strip_nondeterminism (build hangs for hours).
