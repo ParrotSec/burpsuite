@@ -8,7 +8,7 @@ Build-Depends: debhelper-compat (= 13), wget
 Standards-Version: 4.6.2
 Homepage: https://portswigger.net
 Vcs-Git: https://gitlab.com/parrotsec/packages/burpsuite.git
-Vcs-Browser:  https://gitlab.com/parrotsec/packages/burpsuite/
+Vcs-Browser: https://gitlab.com/parrotsec/packages/burpsuite/
 
 Package: burpsuite
 Architecture: amd64 arm64
