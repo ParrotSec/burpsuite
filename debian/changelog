@@ -1,4 +1,4 @@
-burpsuite (2023.10.3.4-1parrot3) parrot-updates; urgency=medium
+burpsuite (2023.10.3.4-1parrot3) stable; urgency=medium
 
   * Change source format to quilt
 
@@ -10,7 +10,6 @@ burpsuite (2023.10.3.4-1parrot2) parrot-updates; urgency=medium
   * Import Debian version 2023.7.2+0parrot1
   * Import Debian version 2023.7.2+0parrot2
   * Import Debian version 2023.7.2+0parrot3
-
   [ Nong Hoang Tu ]
   * Update changelog for 2023.10.3.4-1parrot1 release
   * Change CI script to use online script

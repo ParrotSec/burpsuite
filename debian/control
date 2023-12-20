@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Parrot Team <team@parrotsec.org>
 Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
  Nong Hoang Tu <dmknght@parrotsec.org>
-Build-Depends: debhelper-compat (= 12), wget
+Build-Depends: debhelper-compat (= 13), wget
 Standards-Version: 4.5.0
 Homepage: https://portswigger.net
 
