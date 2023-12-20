@@ -11,7 +11,7 @@ Vcs-Git: https://gitlab.com/parrotsec/packages/burpsuite.git
 Vcs-Browser: https://gitlab.com/parrotsec/packages/burpsuite/
 
 Package: burpsuite
-Architecture: amd64 arm64
+Architecture: all
 Depends: ${misc:Depends}, openjdk-17-jre, jarwrapper
 Description: platform for security testing of web applications
  Burp Suite is an integrated platform for performing security
