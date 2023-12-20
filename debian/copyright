@@ -411,7 +411,10 @@ License: GPL-2+
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
 
-Files: debian/*
+Files:
+  debian/*
+  README.md
+  Makefile
 Copyright: 2022 Nong Hoang Tu <dmknght@parrotsec.org>
 License: GPL-3.0+
 
