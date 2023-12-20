@@ -415,7 +415,7 @@ Files:
   debian/*
   README.md
   Makefile
-Copyright: 2022 Nong Hoang Tu <dmknght@parrotsec.org>
+Copyright: 2022-2024 Nong Hoang Tu <dmknght@parrotsec.org>
 License: GPL-3.0+
 
 License: GPL-3.0+
