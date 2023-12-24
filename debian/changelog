@@ -1,3 +1,19 @@
+burpsuite (2023.11.1.3-1parrot1) stable; urgency=medium
+
+  * Fix some lintian errors
+  * Update standard version
+  * Add Vcs-Git
+  * Fix field spacing
+  * Add files to copyright
+  * Update copyright year
+  * Fix trailing space
+  * Fix superfluous-file-pattern
+  * Try to fix some more lintian errors
+  * Remove more trailing whitespace
+  * Change arch to all
+
+ -- Nong Hoang Tu <dmknght@parrotsec.org>  Sun, 24 Dec 2023 18:39:06 +0700
+
 burpsuite (2023.10.3.4-1parrot3) stable; urgency=medium
 
   * Change source format to quilt
