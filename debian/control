@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Parrot Team <team@parrotsec.org>
 Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>,
  Nong Hoang Tu <dmknght@parrotsec.org>
-Build-Depends: debhelper-compat (= 13), wget
+Build-Depends: debhelper-compat (= 13), wget, default-jre
 Standards-Version: 4.6.2
 Homepage: https://portswigger.net
 Vcs-Git: https://gitlab.com/parrotsec/packages/burpsuite.git
