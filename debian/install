@@ -1,2 +1,2 @@
-burpsuite usr/bin/
-burpsuite.jar usr/share/burpsuite/
+debian/helper_scripts/burpsuite usr/bin/
+burpsuite usr/share/

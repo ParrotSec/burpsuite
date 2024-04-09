@@ -1,3 +1,0 @@
-#!/bin/bash
-
-/usr/lib/jvm/java-17-openjdk-$(dpkg-architecture -q DEB_HOST_ARCH)/bin/java -jar -Xmx4g --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.desktop/javax.swing=ALL-UNNAMED /usr/share/burpsuite/burpsuite.jar
