@@ -5,3 +5,4 @@
 	dh $@
 
 override_dh_strip_nondeterminism:
+override_dh_shlibdeps:

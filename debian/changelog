@@ -1,3 +1,16 @@
+burpsuite (2024.10.1.1+parrot1) lory-updates; urgency=medium
+
+  [ Daniele Trainini ]
+  * Download the correct version when run on aarch66
+  * Fix patch in order to build with sbuild
+
+  [ Lorenzo "Palinuro" Faletra ]
+  * Commit git changes.
+  * Convert to native package.
+  * Build only for amd64 and arm64.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sat, 23 Nov 2024 16:10:56 +0100
+
 burpsuite (2024.2.1.3-1parrot3) stable; urgency=medium
 
   * Add debian patches for packaging
